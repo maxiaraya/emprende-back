@@ -5,6 +5,9 @@
   "author": "maxiaraya",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
   "dependencies": {
     "nodemon": "^2.0.22"
   }
